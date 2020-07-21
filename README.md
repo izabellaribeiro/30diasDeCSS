@@ -13,7 +13,7 @@
 * Criar um projeto por dia
 * Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.) usando a hashtag #30diasDeCSS
 * O projeto deve ser concluído até 23:59
-* [Dia 01 - Ícone de mídia social em camadas](#id01)
+* [Dia 01 - Ícone de Mídia Social em Camadas](#id01)
 
 
 ####  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
