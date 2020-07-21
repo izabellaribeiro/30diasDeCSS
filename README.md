@@ -22,6 +22,6 @@
 Cores utilizadas: 
 `Facebook #3b5999`
 `Twitter #55acee`
-`Google + #ffffff`
+`GitHub + #ffffff`
 `LinkedIn #0077b5`
 `Instagram #e4405f`
