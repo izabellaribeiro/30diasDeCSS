@@ -17,7 +17,7 @@
 
 
 ####  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
-![dia01](https://user-images.githubusercontent.com/37448340/87863730-bdeb0580-c934-11ea-84d4-d85ec4539183.gif)
+![dia01](https://user-images.githubusercontent.com/66179207/88010036-55458980-caea-11ea-8aac-a662f6cee46f.gif)
 
 Cores utilizadas: 
 `Facebook #3b5999`
