@@ -25,3 +25,7 @@ Cores utilizadas:
 `GitHub + #ffffff`
 `LinkedIn #0077b5`
 `Instagram #e4405f`
+
+####  Desafio dia 02 - Loader Animado <a name="id02"></a>
+
+![dia2](https://user-images.githubusercontent.com/66179207/88098289-e90d6900-cb6f-11ea-9251-cacafa1bfb5f.gif)
