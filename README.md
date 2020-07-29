@@ -27,7 +27,7 @@ Cores utilizadas:
 
 ####  Desafio 03 - Texto muda de estilo ao entrar dentro de div
 
-![dia3]((https://user-images.githubusercontent.com/66179207/88844648-572ddd80-d1b9-11ea-9c48-3be2bffb8868.gif)
+![dia3](https://user-images.githubusercontent.com/66179207/88844648-572ddd80-d1b9-11ea-9c48-3be2bffb8868.gif)
 
 Cores utilizadas:
 `Cor de texto: #ffffff`
