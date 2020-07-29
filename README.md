@@ -24,3 +24,19 @@ Cores utilizadas:
 ####  Desafio dia 02 - Loader Animado <a name="id02"></a>
 
 ![dia2](https://user-images.githubusercontent.com/66179207/88098289-e90d6900-cb6f-11ea-9251-cacafa1bfb5f.gif)
+
+####  Desafio 03 - Texto muda de estilo ao entrar dentro de div
+
+![dia3](https://user-images.githubusercontent.com/66179207/88843161-0b7a3480-d1b7-11ea-996c-412ecf75e52d.png)
+
+Cores utilizadas:
+`Cor de texto: #ffffff`
+`Fundo direito: #bd5e92`
+
+####  Desafio 04 - Botão animado. 
+
+![dia4](https://user-images.githubusercontent.com/66179207/88843677-e5a15f80-d1b7-11ea-888c-6af0076fc381.gif)
+
+Cores utilizadas:
+`Primeira borda: #ffffff`
+`Segunda borda: ##c40544`
