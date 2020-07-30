@@ -49,3 +49,10 @@ Cores utilizadas:
 Cores utilizadas:
 `Fundo: #5151a7`
 `Pulsar: #d87093`
+
+#### Desafio 06 - Efeito lightning text.
+
+![dia6](https://user-images.githubusercontent.com/66179207/88876231-34bbb480-d1f9-11ea-8d09-31e3b9ead76f.gif)
+
+Cores utilizadas: 
+`Fundo: #E4C1F9`
