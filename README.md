@@ -56,3 +56,54 @@ Cores utilizadas:
 
 Cores utilizadas: 
 `Fundo: #E4C1F9`
+
+#### Desafio dia 07 - Preloader animado
+![dia7](https://user-images.githubusercontent.com/66179207/89094082-ce6c9880-d396-11ea-87a6-5894929d9c8a.gif)
+
+Cores utilizadas: 
+`Fundo: #d61b1b`
+`Animação: #000000`
+
+#### Desafio dia 08 - Coração batendo
+
+![dia8](https://user-images.githubusercontent.com/66179207/89094144-518dee80-d397-11ea-9382-5d865e49a696.gif)
+
+Cores utilizadas: 
+`Fundo: #e4adad`
+`Heart: #cccfcf`
+
+#### Desafio dia 09 - Pendulo de Newton
+
+![dia9](https://user-images.githubusercontent.com/66179207/89094229-0b855a80-d398-11ea-82a7-a36acf9d14d3.gif)
+
+Cores utilizadas: 
+`Fundo:  rgb(130, 172, 130)`
+`Spans:  rgb(95, 95, 62) `
+
+#### Desafio dia 10 - Animação texto alternando
+
+![dia10](https://user-images.githubusercontent.com/66179207/89094247-44bdca80-d398-11ea-8452-cbe047c9e996.gif)
+
+Cores utilizadas: 
+`Fundo:  rgb(247, 204, 210)`
+`Texto: rgb(71, 2, 48)`
+
+#### Desafio dia 11 - Botão com efeito hover
+
+![dia11](https://user-images.githubusercontent.com/66179207/89094289-c6155d00-d398-11ea-8cb9-21ed2f660996.gif)
+
+Cores utilizadas: 
+`Fundo:  rgb(199, 199, 211)`
+`Efeito:  rgb(185, 25, 25)`
+`Texto: rgb(0, 0, 0) rgb(255, 255, 255)`
+
+#### Desafio dia 12 - Efeito de texto de preenchimento ao passar o mouse
+
+![dia12](https://user-images.githubusercontent.com/66179207/89094351-55bb0b80-d399-11ea-89ff-b4175413df98.gif)
+
+Cores utilizadas: 
+`Fundo:  rgb(0, 0, 0)`
+`Texto:  rgb(138, 43, 226)`
+
+
+
