@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container {
+    animation: loading 1s infinite;
+    border: 3px solid transparent;
+    border-top-color: palevioletred;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width: 100px;
+    padding: 60px;
+    position: relative;
+    background-color: rgb(36, 211, 211);
+}
+
+p{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    opacity: 1;
+    animation: fader 4s linear infinite;
+}
+
+@keyframes loading {
+    to{
+        transform: rotate(1turn);
+    }
+}
+
+@keyframes fader {
+    0% {opacity: 1;}
+    25% {opacity: 0;}
+    50%{opacity: 1;}
+    75%{opacity: 0;}
+    100%{opacity: 1;}
+}

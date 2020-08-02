@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+section {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    overflow: hidden;
+}
+section div {
+    position: relative;
+    width: 50%;
+    background:rgb(189, 94, 146);
+    border-right: 2px solid white;
+    overflow: hidden;
+    color: white;
+}
+
+section div:nth-child(1) {
+    position: relative;
+    width: 50%;
+    background: url(../../../../86f7a91f923b9690026564cbe2cf439f.gif);
+    background-size: cover;
+    overflow: hidden;
+}
+
+section div:nth-child(1) h2 {
+    -webkit-text-stroke: 2px;
+    -webkit-text-stroke-color: #fff;
+    -webkit-text-fill-color: transparent;
+    left: 100%;
+
+}
+
+section div h2 {
+    position: absolute;
+    white-space: nowrap;
+    font-size: 10em;
+    line-height: 100vh;
+    animation: text-animate 10s linear infinite;
+}
+
+@keyframes text-animate {
+    0% {transform: translateX(0);}
+    100% {transform: translateX(-100%);}
+}

@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: black;
+}
+img {
+    width: 10%;
+}
+
+h1 {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    font-size: 120px;
+    color: rgba(180, 169, 167, 0.336);
+    text-transform: uppercase;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1::before{
+    content: '#30DIASDECSS';
+    position: absolute;
+    width: 0%;
+    height: 150px;
+    top: 0%;
+    left: 0%;
+    color: rgb(138, 43, 226);
+    transition: all 1s;
+    overflow: hidden;
+}
+
+h1:hover::before{
+    width: 100%;
+}
