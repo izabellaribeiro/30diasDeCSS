@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: url(../44-448922_solar-system-minimalism-q1-universe.jpg);
+}
+
+h1 {
+    margin-top: -50px;
+    text-align: center;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 90px;
+    line-height: 90px;
+    letter-spacing: 15px;
+    text-shadow: 0 1px 0 #423170,
+                 0 2px 0 #332261,
+                 0 3px 0 #4e206d,
+                 0 4px 0 #2e1569,
+                 0 10px 5px rgba(221, 149, 197, 0.1);
+    animation: anim 2s linear infinite;
+    animation-direction: alternate;
+}
+
+@keyframes anim {
+    from {
+        transform: rotate(6deg);
+    }
+
+    to {
+        transform: rotate(-6deg);
+    }
+}

@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #FEAC5E;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #4BC0C8, #C779D0, #FEAC5E);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #3937b1, #C779D0, #a95efe); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    font-family: 'Anton', sans-serif;
+}
+
+h1 {
+    font-size: 10rem;
+    letter-spacing: 50px;
+    background: url(../pink-blue-hexagon-polka-dots-1920x1080-c2-00008b-ffb6c1-l2-84-130-a-40-f-4\ -\ Copia.svg);
+    -webkit-background-clip: text;
+    -webkit-text-stroke: 0.5px;
+    -webkit-text-stroke-color: rgb(178, 160, 229);
+    color: transparent;
+    animation: anim 25s linear infinite;
+}
+
+@keyframes anim {
+    from { background-position: 0 0 }
+
+	to { background-position: 100% 100% }
+}
