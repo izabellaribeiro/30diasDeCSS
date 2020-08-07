@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: rgb(147, 132, 253);
+}
+
+img {
+    animation: anim 4s linear infinite;
+}
+
+@keyframes anim {
+    0% { transform: rotateX(0deg) rotateY(0deg);}
+
+    50% { transform: rotateX(0deg) rotateY(180deg);}
+
+    100%{ transform: rotate(0deg);}
+
+}
+
