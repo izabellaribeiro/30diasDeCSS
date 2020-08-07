@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: rgb(102, 102, 155);
+}
+
+.container {
+    border: 5px solid rgb(223, 164, 217);
+    border-radius: 20px;
+    width: 16rem;
+    padding: 20px;
+    line-height: 20px;
+    text-align: center;
+    font-size: 20px;
+    color:rgb(216, 229, 241);
+    background: rgb(201, 82, 122);
+    text-transform: uppercase;
+    position: relative;
+    transition: all 1s;
+    overflow: hidden;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.container::before {
+    content: '🎀 DIA 16';
+    color:rgb(216, 229, 241);
+    background-color:  rgb(102, 102, 155);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    transform: translateY(-100%);
+    transition: all 1s;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container:hover::before {
+    transform: translateY(0);
+}
