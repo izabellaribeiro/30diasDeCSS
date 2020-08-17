@@ -129,7 +129,26 @@ Cores utilizadas:
 `Fundo:  rgb(0, 0, 0)`
 `Texto:  rgb(138, 43, 226)`
 
+#### Desafio dia 16 - Botão com efeito.
 
+![dia14](https://user-images.githubusercontent.com/66179207/90448864-9c5c7580-e0bc-11ea-81b9-b7a99aa818f1.gif)
 
+Cores utilizadas: 
+`Fundo:  rgb(0, 0, 0)`
+`Texto:  rgb(138, 43, 226)`
 
+#### Desafio dia 17 - Loader animado.
 
+![dia14](https://user-images.githubusercontent.com/66179207/90448991-db8ac680-e0bc-11ea-8012-8b9abf7d9821.gif)
+
+Cores utilizadas: 
+`Fundo:  rgb(0, 0, 0)`
+`Texto:  rgb(138, 43, 226)`
+
+#### Desafio dia 18 - Texto esfumaçado.
+
+![dia14](https://user-images.githubusercontent.com/66179207/90449132-2f95ab00-e0bd-11ea-98fd-ba3c7a5813ec.gif)
+
+Cores utilizadas: 
+`Fundo:  rgb(0, 0, 0)`
+`Texto:  rgb(138, 43, 226)`
