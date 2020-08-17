@@ -57,7 +57,7 @@ Cores utilizadas:
 `Fundo: #E4C1F9`
 
 #### Desafio dia 07 - Preloader animado
-![dia7](https://user-images.githubusercontent.com/66179207/89094082-ce6c9880-d396-11ea-87a6-5894929d9c8a.gif)
+![dia7]((https://user-images.githubusercontent.com/66179207/90446585-03c3f680-e0b8-11ea-8e84-ebdce39b64a6.gif)
 
 Cores utilizadas: 
 `Fundo: #d61b1b`
@@ -99,6 +99,38 @@ Cores utilizadas:
 #### Desafio dia 12 - Efeito de texto de preenchimento ao passar o mouse
 
 ![dia12](https://user-images.githubusercontent.com/66179207/89094351-55bb0b80-d399-11ea-89ff-b4175413df98.gif)
+
+Cores utilizadas: 
+`Fundo:  rgb(0, 0, 0)`
+`Texto:  rgb(138, 43, 226)`
+
+#### Desafio dia 13 - Loading com efeito. 
+
+![dia13](https://user-images.githubusercontent.com/66179207/90447176-20acf980-e0b9-11ea-9dcd-57ac0d0056d5.gif)
+
+Cores utilizadas: 
+`Fundo:  rgb(0, 0, 0)`
+`Texto:  rgb(138, 43, 226)`
+
+#### Desafio dia 14 - Fundo de texto animado.
+
+![dia14](https://user-images.githubusercontent.com/66179207/90447238-42a67c00-e0b9-11ea-84b0-3022569e215a.gif)
+
+Cores utilizadas: 
+`Fundo:  rgb(0, 0, 0)`
+`Texto:  rgb(138, 43, 226)`
+
+#### Desafio dia 15 - Texto flutuante.
+
+![dia15](https://user-images.githubusercontent.com/66179207/90447272-5651e280-e0b9-11ea-8ec6-194bc6c35bb9.gif)
+
+Cores utilizadas: 
+`Fundo:  rgb(0, 0, 0)`
+`Texto:  rgb(138, 43, 226)`
+
+#### Desafio dia 16 - Texto flutuante.
+
+![dia15](https://user-images.githubusercontent.com/66179207/90447272-5651e280-e0b9-11ea-8ec6-194bc6c35bb9.gif)
 
 Cores utilizadas: 
 `Fundo:  rgb(0, 0, 0)`
