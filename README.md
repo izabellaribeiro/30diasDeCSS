@@ -110,7 +110,6 @@ Cores utilizadas:
 
 Cores utilizadas: 
 `Fundo:  rgb(0, 0, 0)`
-`Texto:  rgb(138, 43, 226)`
 
 #### Desafio dia 14 - Fundo de texto animado.
 
