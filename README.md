@@ -122,7 +122,7 @@ Cores utilizadas:
 
 #### Desafio dia 15 - Texto flutuante.
 
-![dia15](https://user-images.githubusercontent.com/66179207/90447272-5651e280-e0b9-11ea-8ec6-194bc6c35bb9.gif)
+![dia15](https://user-images.githubusercontent.com/66179207/90447773-61594280-e0ba-11ea-8041-6aacf8352fc6.gif)
 
 Cores utilizadas: 
 `Fundo:  rgb(0, 0, 0)`
@@ -130,11 +130,30 @@ Cores utilizadas:
 
 #### Desafio dia 16 - Texto flutuante.
 
-![dia15](https://user-images.githubusercontent.com/66179207/90447272-5651e280-e0b9-11ea-8ec6-194bc6c35bb9.gif)
+![dia15]()
 
 Cores utilizadas: 
 `Fundo:  rgb(0, 0, 0)`
 `Texto:  rgb(138, 43, 226)`
+
+#### Desafio dia 17 - Texto flutuante.
+
+![dia15]()
+
+Cores utilizadas: 
+`Fundo:  rgb(0, 0, 0)`
+`Texto:  rgb(138, 43, 226)`
+
+#### Desafio dia 18 - Texto flutuante.
+
+![dia15]()
+
+Cores utilizadas: 
+`Fundo:  rgb(0, 0, 0)`
+`Texto:  rgb(138, 43, 226)`
+
+
+
 
 
 
