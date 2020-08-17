@@ -57,7 +57,7 @@ Cores utilizadas:
 `Fundo: #E4C1F9`
 
 #### Desafio dia 07 - Preloader animado
-![dia7]((https://user-images.githubusercontent.com/66179207/90446585-03c3f680-e0b8-11ea-8e84-ebdce39b64a6.gif)
+![dia7](https://user-images.githubusercontent.com/66179207/90446585-03c3f680-e0b8-11ea-8e84-ebdce39b64a6.gif)
 
 Cores utilizadas: 
 `Fundo: #d61b1b`
