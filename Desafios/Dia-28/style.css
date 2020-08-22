@@ -1,0 +1,41 @@
+
+body 
+{
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: 'Lato', sans-serif;
+    animation: bgchange 20s infinite;
+    font-family: 'Bangers', cursive;
+    color:white;
+}
+
+h1 
+{
+	font-size: 70px;
+	text-align: center;
+    text-transform: capitalize;
+    letter-spacing: 10px;
+    padding: 20px;
+}
+
+@keyframes bgchange {
+    0% { background-color: rgba(252, 70, 107, 100);
+        color: black}
+
+    20% { background-color: rgb(133, 133, 208);
+        color: blueviolet}
+
+    40% { background-color: rgb(169, 124, 116);
+        color: blue;}
+
+    60% { background-color: rgb(142, 199, 218);
+        color: black;}
+
+    80% { background-color: rgb(166, 85, 186);
+        color: rgb(93, 8, 8);}
+
+    100% { background-color: #a77272;
+        color: blueviolet;}
+}
