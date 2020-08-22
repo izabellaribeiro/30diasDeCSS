@@ -1,0 +1,57 @@
+  
+body 
+{
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #0e0d0d;
+}
+   
+.pulse 
+{
+     width: 100px;
+     height: 100px;
+     background-color: #997dd5;
+     color: white;
+     border-radius: 50%;
+     text-align: center;
+     line-height: 100px;
+     font-size: 48px;
+     position: relative;
+     translate: all 1s;
+     animation: rotate 1s linear infinite;
+}
+   
+.pulse:before, .pulse:after 
+{
+     content: '';
+     position: absolute;
+     left: -20px;
+     right: -20px;
+     top: -20px;
+     bottom: -20px;
+     border: 1px solid #997dd5;
+     border-radius: 50%;
+     animation: pulse 1.5s linear infinite;
+}
+   
+.pulse:after
+{   
+     animation-delay: 0.5s;
+}
+
+@keyframes rotate {
+    0% {transform: scale(0.6)}
+    25% {transform: scale(0.8);}
+    25% {transform: scale(1);}
+    25% {transform: scale(1.2);}
+}
+
+@keyframes pulse 
+{
+     0% { transform: scale(0.5); opacity: 0}
+     50% { transform: scale(1); opacity: 1 }
+     100% { transform: scale(1.2); opacity: 0 }
+}
