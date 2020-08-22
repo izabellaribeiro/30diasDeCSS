@@ -35,8 +35,6 @@ img {
     animation: animatehexagon 5s linear infinite;
 }
 
-
-
 @keyframes animatehexagon 
 {
     0% {left: 0;}
