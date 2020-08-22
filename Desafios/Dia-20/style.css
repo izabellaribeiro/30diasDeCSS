@@ -1,0 +1,51 @@
+*{
+    font-family: 'Righteous', cursive;
+}
+
+body 
+{
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+    align-items: center;
+    background-color: rgb(164, 81, 241);
+}
+
+a 
+{
+	text-decoration: none;
+    color: rgb(245, 239, 239);
+	font-size: 40px;
+    border: 5px solid white;
+    border-radius: 20px;
+	padding: 30px 70px;
+	transition: all 0.3s;
+	position: relative;
+	overflow: hidden;
+}
+
+a:hover 
+{
+    background-color: #fdf7f7;
+    color: palevioletred;
+    border-color: blueviolet;
+}
+
+a:before 
+{
+	content: '';
+	background-color: rgb(231, 77, 180);
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 50px;
+	position: absolute;
+	transform: translateX(-100%) rotate(45deg);
+	transition: all 0.3s;
+}
+
+a:hover:before 
+{
+     transform: translateX(100%) rotate(45deg);
+     color: black;
+}
