@@ -1,0 +1,54 @@
+
+body
+{
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #1f0738;
+}
+
+.line
+{
+    width: 300px;
+    border-bottom: 4px solid white;
+    position: relative;
+    animation: animateline 2.5s linear infinite;
+}
+
+img {
+    top: -50px;
+    position: absolute;
+    height: 50px;
+    animation: animatehexagon 3s linear infinite;
+}
+
+.hexagon
+{
+    position: absolute;
+    left: 0;
+    bottom: 14px;
+    width: 50px;
+    height: 30px;
+    background-color: white;
+    animation: animatehexagon 5s linear infinite;
+}
+
+
+
+@keyframes animatehexagon 
+{
+    0% {left: 0;}
+    50% {left: calc(85%);
+    transform: rotate(720deg);}
+    100% {left: 0;}
+}
+
+@keyframes animateline 
+{
+    0% {transform: rotate(30deg);}
+    25% {transform: rotate(0deg);}
+    50% {transform: rotate(-30deg);}
+    75% {transform: rotate(0deg);}
+}
