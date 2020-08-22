@@ -1,0 +1,78 @@
+body 
+{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    font-family: "verdana", sans-serif;
+    background: #7979bd;
+    color: white;
+}
+.nav 
+{
+    border-bottom: 1px solid #7979bd;
+    text-align: right;
+    height: 70px;
+    line-height: 70px;
+}
+.menu 
+{
+    margin: 0 30px 0 0;
+}
+
+.menu img {
+    position: absolute;
+    height: 50px;
+    left: 2%;
+}
+
+.menu a 
+{
+    clear: right;
+    text-decoration: none;
+    color: white;
+    margin: 0 10px;
+    line-height: 70px;
+}
+
+span 
+{
+    color: #85d69d;
+}
+
+label 
+{
+    margin: 0 40px 0 0;
+    font-size: 26px;
+    line-height: 70px;
+    display: none;
+    width: 26px;
+    float: right;
+}
+#toggle 
+{
+    display: none;
+}
+
+
+@media only screen and (max-width: 500px) {
+    label {
+        display: block;
+        cursor: pointer;
+    }
+    .menu {
+        text-align: center;
+        width: 100%;
+        display: none;
+    }
+    .menu a {
+        display: block;
+        border-bottom: 1px solid #EAEAEB;
+        margin: 0;
+     
+    }
+    #toggle:checked + .menu {
+        display: block;
+    }
+    
+    
+}
