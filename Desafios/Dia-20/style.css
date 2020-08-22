@@ -22,13 +22,15 @@ a
 	transition: all 0.3s;
 	position: relative;
 	overflow: hidden;
+	transition: all 0.5s;
 }
 
 a:hover 
 {
     background-color: #fdf7f7;
     color: palevioletred;
-    border-color: blueviolet;
+	border-color: blueviolet;
+	transform: scale(0.8);
 }
 
 a:before 
