@@ -8,7 +8,7 @@ O #30diasDeCSS é um desafio que tem como objetivo por em prática habilidades d
 - Acessar o seguinte link: https://github.com/MilenaCarecho/30diasDeCSS/issues/1
 - Adicione algumas informações requeridas por lá.
 
-### Tecnologias utilizadas na formação dos desafios:
+### :paperclip: Tecnologias utilizadas na formação dos desafios:
 - HTML
 - CSS3 
     
