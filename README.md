@@ -5,8 +5,8 @@ O #30diasDeCSS é um desafio que tem como objetivo por em prática habilidades d
 
 
 ### :feet: Para participar, você pode seguir os seguintes passos: 
-- Acessar o seguinte link: https://github.com/MilenaCarecho/30diasDeCSS/issues/1
-- Adicione algumas informações requeridas por lá.
+- Acessar o seguinte link: https://github.com/MilenaCarecho/30diasDeCSS/issues/1 :white_check_mark:
+- Adicione algumas informações requeridas por lá. :white_check_mark:
 
 ### :paperclip: Tecnologias utilizadas na formação dos desafios:
 - HTML
