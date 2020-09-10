@@ -8,4 +8,4 @@ O #30diasDeCSS é um desafio que tem como objetivo por em prática habilidades d
 - Acessar o seguinte link: https://github.com/MilenaCarecho/30diasDeCSS/issues/1
 - Adicione algumas informações requeridas por lá.
     
-### :two_heart: Índice para o acesso a todos o meus desafios: 
+### :two_hearts: Índice para o acesso a todos o meus desafios: 
